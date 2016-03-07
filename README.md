@@ -4,5 +4,7 @@
 choco-sat
 =========
 
+[![Join the chat at https://gitter.im/chocoteam/choco-sat](https://badges.gitter.im/chocoteam/choco-sat.svg)](https://gitter.im/chocoteam/choco-sat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 choco-sat is a Free and Open-Source Software dedicated to Boolean Satisfiabilty Problem, ie a SAT solver. 
 It is a Java library written under BSD license. 
